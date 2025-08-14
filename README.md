@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Sammed17/DSA/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Sammed17/DSA/tree/master/0088-merge-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -18,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sammed17/DSA/tree/master/0013-roman-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Sammed17/DSA/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Sammed17/DSA/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
