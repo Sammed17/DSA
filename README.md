@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sammed17/DSA/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Sammed17/DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Sammed17/DSA/tree/master/0088-merge-sorted-array) |
 ## Math
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sammed17/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Sammed17/DSA/tree/master/0013-roman-to-integer) |
 ## String
 |  |
